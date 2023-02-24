@@ -50291,5 +50291,31 @@
         "id": "50",
         "image": "https://static3.industrybuying.com/homepage/1613549414POW.COR.18810513.jpg"
       }
-    ]
+    ],
+    "adminLogin": [{
+          "name": "Msaif",
+          "email": "msaif@coolcloth.com",
+          "password" : "cool5"
+        } ,
+        {
+          "name": "Rupesh",
+          "email": "rupesh@coolcloth.com",
+          "password" : "cool5"
+        },
+        {
+          "name": "Monojoy",
+          "email": "monojoy@coolcloth.com",
+          "password" : "cool5"
+        },
+        {
+          "name": "Shankar",
+          "email ": "shankar@coolcloth.com",
+          "password" : "cool5"
+        },
+        {
+          "name": "Prashant",
+          "email": "prashant@coolcloth.com",
+          "password" : "cool5"
+        }]
+
   }
